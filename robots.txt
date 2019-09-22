@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aijohkoom.learntodrivechorley.co.uk/sitemap.xml
